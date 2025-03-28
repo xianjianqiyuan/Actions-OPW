@@ -19,4 +19,4 @@ sed -i 's/192.168.1.1/192.168.10.195/g' package/base-files/files/bin/config_gene
 
 # Modify hostname
 #sed -i 's/OpenWrt/P3TERX-Router/g' package/base-files/files/bin/config_generate
-sed -i 's/OpenWrt/QY-Router/g' package/base-files/files/bin/config_generate
+sed -i 's/ImmortalWrt/QY-Router/g' package/base-files/files/bin/config_generate
